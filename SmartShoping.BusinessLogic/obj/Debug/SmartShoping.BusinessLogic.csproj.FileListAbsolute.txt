@@ -1,0 +1,16 @@
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.BusinessLogic.exe.config
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.BusinessLogic.exe
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.BusinessLogic.pdb
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.Domain.exe
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.Domain.pdb
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\SmartShoping.Domain.exe.config
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.csproj.AssemblyReference.cache
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.csproj.SuggestedBindingRedirects.cache
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.csproj.CopyComplete
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.exe
+D:\GitRepos\SmartShopingAPI\SmartShopingAPI\SmartShoping.BusinessLogic\obj\Debug\SmartShoping.BusinessLogic.pdb
