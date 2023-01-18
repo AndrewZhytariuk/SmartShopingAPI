@@ -16,6 +16,7 @@ DLLs/
 packages/
 MasterBuild/Daily/
 IntegrationTests/Upgrade/
+test.txt
 
 ArasES_Agent/Tests/*.txt
 ArasES_Agent/Tests/*.xml
