@@ -1,0 +1,33 @@
+# User-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+bin/
+!ESInstall/zookeeper/bin/
+!MasterBuild/Nant/bin/
+MasterBuild/tools/NodeJS/node_modules/**
+MasterBuild/tools/NodeJS/Karma/reporters
+obj/
+Output/
+DLLs/
+packages/
+MasterBuild/Daily/
+IntegrationTests/Upgrade/
+
+ArasES_Agent/Tests/*.txt
+ArasES_Agent/Tests/*.xml
+Tests/*.txt
+Tests/*.xml
+
+# Compiled CSS files
+UI/ES/Styles/*.css
+
+# FxCop files
+*.lastcodeanalysissucceeded
+*.CodeAnalysisLog.xml
+
+# Certificate files
+MasterBuild/*.pfx
