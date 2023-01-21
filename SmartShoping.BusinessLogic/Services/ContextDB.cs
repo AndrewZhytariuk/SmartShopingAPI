@@ -1,9 +1,6 @@
 ﻿using SmartShoping.BusinessLogic.Interfaces;
 using SmartShoping.Domain.Models;
-using System;
 using System.Data.Entity;
-using System;
-using System.Configuration;
 
 namespace SmartShoping.BusinessLogic
 {
